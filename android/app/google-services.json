@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123986382938",
+    "project_id": "msp-workshop",
+    "storage_bucket": "msp-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123986382938:android:5b569a443157077415c863",
+        "android_client_info": {
+          "package_name": "com.example.firebase_meeting_msp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkg7j_4MIf_6wUpc_6dHdYxF-0LTeCaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

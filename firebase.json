@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"msp-workshop","appId":"1:123986382938:android:5b569a443157077415c863","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"msp-workshop","configurations":{"android":"1:123986382938:android:5b569a443157077415c863","web":"1:123986382938:web:7d67487df0ab4e2615c863"}}}}}}
